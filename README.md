@@ -1,4 +1,4 @@
->Created a Landing Page for IAF new inducted Rafale fighter jet from Dassault
+>Created a Landing Page for IAF newly inducted Rafale fighter jet from Dassault Aviation
 
 >Link - https://arry-codes.github.io/Landing-Page/
 
